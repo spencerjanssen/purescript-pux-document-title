@@ -1,0 +1,20 @@
+{
+  "name": "purescript-pux-document-title",
+  "authors": [
+      "Spencer Janssen <spencerjanssen@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "repository": {
+      "type": "git",
+      "url": "git://github.com/spencerjanssen/purescript-pux-document-title"
+  },
+  "dependencies": {
+    "purescript-pux": "^6.0.1"
+  }
+}
